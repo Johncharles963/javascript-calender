@@ -1,0 +1,27 @@
+
+.dat{
+    height:50px; 
+    width: 50px; 
+    border: 1px solid black;
+    background-color: blue;
+}
+.d{
+    background-color: white;
+    height: 50px;
+    border: 1px solid grey
+}
+.d-g{
+    background-color: lightgrey;
+    height: 50px;
+    border: 1px solid grey
+}
+.d-p{
+    background-color: aquamarine;
+}
+.days-lit{
+    height: 25px;
+    border: 1px solid grey
+}
+#container{
+    width: 30vw;
+}
